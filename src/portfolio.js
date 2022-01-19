@@ -7,7 +7,7 @@ const header = {
 
 const about = {
   name: 'Marigona Hasaj',
-  role: 'Front-end developer',
+  role: 'front-end developer',
   description:
     'My objective is to take a challenging and\n' +
     'managerial role in the field of computer programming and\n' +
@@ -60,7 +60,9 @@ const skills = [
   'SASS',
   'LESS',
   'CSS',
+  'HTML5',
   'Git',
+
 ]
 
 const contact = {
