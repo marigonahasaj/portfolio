@@ -1,6 +1,5 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import TwitterIcon from '@material-ui/icons/Twitter';
 import { about } from '../../portfolio'
 import './About.css'
 import resumeFile from "../../assets/resume.pdf"
@@ -47,16 +46,6 @@ const About = () => {
                 className='link link--icon'
               >
                 <LinkedInIcon />
-              </a>
-            )}
-
-            {social.twitter && (
-              <a
-                href={social.twitter}
-                aria-label='twitter'
-                className='link link--icon'
-              >
-                <TwitterIcon />
               </a>
             )}
           </>

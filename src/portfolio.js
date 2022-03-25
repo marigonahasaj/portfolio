@@ -15,9 +15,8 @@ const about = {
     'develop complex projects with efficiency and quality.',
   resume: '/resume.pdf',
   social: {
-    linkedin: 'https://www.linkedin.com/in/marigona-hasaj-a3a515102/',
-    github: 'https://github.com/Marigonna',
-    twitter: 'https://twitter.com/marigona_hasaj',
+    linkedin: 'https://www.linkedin.com/in/marigona-hasaj-973b1816a/',
+    github: 'https://github.com/marigonahasaj',
   },
 }
 
@@ -46,6 +45,13 @@ const projects = [
     stack: ['JavaScript','React'],
     sourceCode: '#projects',
     livePreview: 'https://geocad-ks.com',
+  },
+  {
+    name: 'Geotech`s Website',
+    description: 'Responsive SPA in the context of web admin panel, order management, product management, case management, etc',
+    stack: ['JavaScript','React'],
+    sourceCode: '#projects',
+    livePreview: 'http://panel.geonet-ks.com',
   },
 ]
 
