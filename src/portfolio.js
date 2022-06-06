@@ -33,7 +33,7 @@ const projects = [
     livePreview: 'https://siu.rks-gov.net',
   },
   {
-    name: 'Web App to generate dynamic reports',
+    name: 'Dynamic Reports App',
     description: 'Designed to offer dynamic report creation for a specific database logic for KuBIT software company. Includes filtering, grouping, sorting, adding, removing, etc.',
     stack: ['JavaScript','React','ExpressJS'],
     sourceCode: '#projects',
