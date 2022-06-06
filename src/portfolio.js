@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Kosovo - Water Information System',
     description:
-      'Designed and developed a complete GIS system for \n' +
+      ' Participated in design and development of a complete GIS system for \n' +
       'managing and interacting with national water data with the\n' +
       'purpose of digitizing and interacting everyday with the \n' +
       'system.',
@@ -34,14 +34,14 @@ const projects = [
   },
   {
     name: 'Dynamic Reports App',
-    description: 'Designed to offer dynamic report creation for a specific database logic for KuBIT software company. Includes filtering, grouping, sorting, adding, removing, etc.',
+    description: 'Independently designed and developped an app to offer dynamic report support of retail data from specific database logic for KuBIT software company. Includes filtering, grouping, sorting, adding, removing, etc.',
     stack: ['JavaScript','React','ExpressJS'],
     sourceCode: '#projects',
     livePreview: '#projects',
   },
   {
     name: 'Geocad',
-    description: 'Responsive static website based on company needs',
+    description: 'Developed a responsive static website based on company needs, to increase the clients sales and share their profile and their work. ',
     stack: ['JavaScript','React'],
     sourceCode: '#projects',
     livePreview: 'https://geocad-ks.com',
