@@ -9,10 +9,10 @@ const about = {
   name: 'Marigona Hasaj',
   role: 'front-end developer',
   description:
-    'My objective is to take a challenging and\n' +
-    'managerial role in the field of computer programming and\n' +
-    'implement the expertise and experience gained in this field to\n' +
-    'develop complex projects with efficiency and quality.',
+    'Creative front-end developer with a flair for bringing UX designs and ideas to life.\n' +
+    'Passionate about implementing user-friendly platforms, always in search of broadening my skills. \n' +
+    'Keen to take a part and/or managerial role in developing complex projects with effieciency and quality.\n' +
+    'Proven ability in managing large teams to exceed expectations. ',
   resume: '/CV-.png',
   social: {
     linkedin: 'https://www.linkedin.com/in/marigona-hasaj-973b1816a/',
