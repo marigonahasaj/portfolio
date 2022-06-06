@@ -33,25 +33,25 @@ const projects = [
     livePreview: 'https://siu.rks-gov.net',
   },
   {
-    name: 'Web App for the creation of dynamic reports',
+    name: 'Web App to generate dynamic reports',
     description: 'Designed to offer dynamic report creation for a specific database logic for KuBIT software company. Includes filtering, grouping, sorting, adding, removing, etc.',
     stack: ['JavaScript','React','ExpressJS'],
     sourceCode: '#projects',
     livePreview: '#projects',
   },
   {
-    name: 'Geocad`s Website',
+    name: 'Geocad',
     description: 'Responsive static website based on company needs',
     stack: ['JavaScript','React'],
     sourceCode: '#projects',
     livePreview: 'https://geocad-ks.com',
   },
   {
-    name: 'Geotech`s Website',
+    name: 'Geotech Albania',
     description: 'Responsive SPA in the context of web admin panel, order management, product management, case management, etc',
     stack: ['JavaScript','React'],
     sourceCode: '#projects',
-    livePreview: 'http://panel.geonet-ks.com',
+    livePreview: 'http://geotech.al',
   },
 ]
 
