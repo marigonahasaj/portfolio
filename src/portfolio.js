@@ -13,7 +13,7 @@ const about = {
     'managerial role in the field of computer programming and\n' +
     'implement the expertise and experience gained in this field to\n' +
     'develop complex projects with efficiency and quality.',
-  resume: '/resume.pdf',
+  resume: '/CV-.png',
   social: {
     linkedin: 'https://www.linkedin.com/in/marigona-hasaj-973b1816a/',
     github: 'https://github.com/marigonahasaj',
